@@ -1,2 +1,2 @@
 # Flutter_API-Kullanimi
- Bu repo API servisini kullandığım internet üzerinden veri çektiğim uygulama
+ Bu uygulamada basit bir api kullanım örneği mevcuttur internet üzerinden çektiğim verileri listelediğim bir api uygulaması
