@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "il_adi": "Adana",
+    "plaka_kodu": "01"
+  },
+  {
+    "id": 2,
+    "il_adi": "Adıyaman",
+    "plaka_kodu": "02"
+  },
+  {
+    "id": 3,
+    "il_adi": "Afyonkarahisar",
+    "plaka_kodu": "03"
+  },
+  {
+    "id": 4,
+    "il_adi": "Ağrı",
+    "plaka_kodu": "04"
+  },
+  {
+    "id": 5,
+    "il_adi": "Aksaray",
+    "plaka_kodu": "68"
+  },
+  {
+    "id": 6,
+    "il_adi": "Amasya",
+    "plaka_kodu": "05"
+  },
+  {
+    "id": 7,
+    "il_adi": "Ankara",
+    "plaka_kodu": "06"
+  },
+  {
+    "id": 8,
+    "il_adi": "Antalya",
+    "plaka_kodu": "07"
+  },
+  {
+    "id": 9,
+    "il_adi": "Ardahan",
+    "plaka_kodu": "75"
+  },
+  {
+    "id": 10,
+    "il_adi": "Artvin",
+    "plaka_kodu": "10"
+  },
+  {
+    "id": 11,
+    "il_adi": "Bilecik",
+    "plaka_kodu": "11"
+  },
+  {
+    "id": 12,
+    "il_adi": "Bingol",
+    "plaka_kodu": "12"
+  }
+]
