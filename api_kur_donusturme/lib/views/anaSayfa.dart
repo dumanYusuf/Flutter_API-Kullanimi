@@ -129,9 +129,9 @@ class _AnaSayfaState extends State<AnaSayfa> {
            }
          }
 
-         setState(() {
+      setState(() {
 
-         });
+      });
 
   }
 }
